@@ -10,8 +10,7 @@ Email Me 👉 ✉️ **shivangvishwakarma18.com** For Collaboration/Project or A
 - 🌱 **I’m currently learning:** React, Node.js, Express.js, PostgreSQL, REST APIs, and AI integration in web applications.
 - 👯 **I’m looking to collaborate on:** Web development, full-stack, and beginner-friendly open-source projects.
 - 🤔 **I’m looking for help with:** Backend architecture, scalable project structure, and writing clean production-level code.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Node.js, beginner full-stack projects, and DSA practice
-- 📫 **How to reach me:** shivangvishwakarma18@gmail.com
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Node.js, beginner full-stack projects, and DSA practice.
 - ⚡ **Fun fact:** I love turning ideas into projects and learning by building.
   
 ## 🌐 Socials:
